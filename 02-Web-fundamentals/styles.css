@@ -30,5 +30,5 @@ header h1 {
     padding: 20px;
     background-color: white;
     color: midnightblue; 
-    box-shadow: 5px 5px 5px 5px;
+    box-shadow: 5px 5px 5px 5px lightgray;
 }
