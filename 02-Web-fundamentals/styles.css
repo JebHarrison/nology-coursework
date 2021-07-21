@@ -37,6 +37,11 @@ header h1 {
     background-color: white;
     color: midnightblue; 
     box-shadow: 5px 5px 5px 5px lightgray;
+    opacity: 0.5;
+}
+
+.card:hover {
+    opacity: 1;
 }
 
 .card img {
