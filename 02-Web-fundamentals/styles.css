@@ -4,6 +4,12 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+*::selection {
+    color: white;
+    background-color: turquoise;
+}
+
+
 body {
     background-color: white;
     max-width: 1400px;
@@ -18,11 +24,6 @@ header {
 }
 
 header h1 {
-    font-size: 40px;
-}
-
-h1::first-letter {
-    color: red;
     font-size: 40px;
 }
 
