@@ -32,3 +32,9 @@ header h1 {
     color: midnightblue; 
     box-shadow: 5px 5px 5px 5px lightgray;
 }
+
+.card img {
+    margin: 10px;
+    min-height: 300px;
+    border-radius: 30px;
+}
