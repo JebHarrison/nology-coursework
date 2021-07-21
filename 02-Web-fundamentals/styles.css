@@ -25,4 +25,8 @@ header h1 {
     width: 300px;
     height: auto;
     border: 1px solid gray;
+    border-radius: 5px;
+    text-align: center;
+    padding: 20px;
+    background-color: white;
 }
